@@ -1,2 +1,2 @@
 all:
-	gcc  hello_github_code_scanning.c
+	$(CC)  hello_github_code_scanning.c
