@@ -1,3 +1,4 @@
+#include <stdio.h>
 void function_to_leak_memory()
 {
 	char *p = NULL;
