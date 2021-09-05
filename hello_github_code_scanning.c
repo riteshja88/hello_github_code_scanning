@@ -1,3 +1,4 @@
+#include <stdlib.h>
 #include <stdio.h>
 void function_to_leak_memory()
 {
